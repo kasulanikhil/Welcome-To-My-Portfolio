@@ -29,7 +29,12 @@ http://127.0.0.1:5500/my%20portfolio.html#Projects
 
 📧 Contact
 Email: kalusanikhil52@gmail.com
+
+
 LinkedIn: https://www.linkedin.com/in/kasula-nikhil-192b6533b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+
+
 GitHub:  https://github.com/kasulanikhil/Welcome-To-My-Portfolio
 
 
