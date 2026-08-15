@@ -18,17 +18,20 @@ This project showcases my skills, projects, and contact information in a clean, 
 # Kasula Portfolio Demo
 
 ---
-
+##  deploy link
+http://127.0.0.1:5500/my%20portfolio.html#Projects
+---
 ## 🛠️ Setup
 1. Clone the repository:
    ```bash
-  https://github.com/kasulanikhil/Welcome-To-My-Portfolio
+ https://github.com/kasulanikhil/Welcome-To-My-Portfolio
 
 
 📧 Contact
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile (linkedin.com in Bing)
-GitHub: Your GitHub (github.com in Bing)
+Email: kalusanikhil52@gmail.com
+LinkedIn: https://www.linkedin.com/in/kasula-nikhil-192b6533b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+GitHub:  https://github.com/kasulanikhil/Welcome-To-My-Portfolio
+
 
 Code
 ---
