@@ -1,4 +1,4 @@
-# Kasula Portfolio Demo
+# Kasula Nikhil Portfolio 
 
 A simple personal portfolio website built with **HTML, CSS, and JavaScript**.  
 This project showcases my skills, projects, and contact information in a clean, responsive layout.
@@ -22,7 +22,7 @@ This project showcases my skills, projects, and contact information in a clean, 
 ## 🛠️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/kasula-portfolio-demo.git
+  https://github.com/kasulanikhil/Welcome-To-My-Portfolio
 
 
 📧 Contact
